@@ -18,11 +18,15 @@ html {
   line-height: 22px;
   padding: 22px;
 }
+p {
+
+}
 .good-float figure{
   padding-top: 20px;
   padding-bottom: 20px;
 }
 @media screen and (min-width: 520px) {
+  
   .good-float  figure{
     width: 50%;
     float: left;
